@@ -5,23 +5,35 @@ The analysis uses a synthetic employee dataset to simulate real-world HR analyti
 # Business Problem
 Employee attrition leads to increased recruitment costs, loss of institutional knowledge, and reduced organizational productivity. HR teams require actionable insights to understand who is leaving, why they are leaving, and what actions can reduce turnover.
 
-This dashboard addresses the following business questions:
+This Project addresses the following business questions:
+
 How does work arrangement (remote vs on-site) affect attrition?
+
 Which age groups and marital statuses experience the highest turnover?
+
 How do work–life balance and commuting distance influence attrition?
+
 Does education level impact employee retention?
 
-# Dataset
-The dataset is a synthetic employee attrition dataset containing information on:
+# Data Source
 
-Employee demographics (Age, Marital Status, Education)
+# Preparation Tools
 
-Work arrangement (Remote vs On-site)
+# Skills Demonstrated
 
-Work–life balance and job satisfaction
+# Executive Insights
 
-Commuting distance
+## Remote Work vs Attrition
 
-Attrition status
+This analysis compares attrition outcomes between employees working remotely and those working on-site across different job levels.
+
+Insight:
+Employees with remote work arrangements exhibit lower attrition and higher job satisfaction, while on-site employees demonstrate significantly higher turnover. This highlights workplace flexibility as a key determinant of employee retention.
+
+# Recommendations
+
+# Dashboard
+
+# Conclusion
 
 
