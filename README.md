@@ -167,4 +167,5 @@ Based on the findings of from the analysis, the following actions are recommende
 
 # Conclusion
 
+This project is used to illustrate HR decision making by identifying attrition drivers and supporting targeted retention strategies. The dashboard provides actionable insights to help organizations improve employee engagement and reduce turnover.
 
