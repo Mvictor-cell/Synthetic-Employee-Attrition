@@ -37,7 +37,7 @@ DAX – Attrition rate calculations, segmentation, and KPIs
 
 •	Business insight generation
 
-• Executive-level data storytelling
+• Executive level data storytelling
 
 # Executive Insights
 
