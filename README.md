@@ -45,7 +45,6 @@ DAX – Attrition rate calculations, segmentation, and KPIs
 ### Remote Work vs Attrition
 
 This analysis compares attrition outcomes between employees working remotely and those working on-site across different job levels.
-
 <img width="377" height="281" alt="Screenshot 2026-01-17 120841" src="https://github.com/user-attachments/assets/be3dad0f-13ea-40d1-b2cb-5b8f818af543" />
 
 
@@ -53,7 +52,6 @@ Insight:
 Employees with remote work arrangements exhibit lower attrition and higher job satisfaction, while on-site employees demonstrate significantly higher turnover. This highlights workplace flexibility as a key determinant of employee retention.
 
 ### How Does Work–Life Balance Affect Attrition Rate?
-
 <img width="396" height="281" alt="Screenshot 2026-01-17 114048" src="https://github.com/user-attachments/assets/efcca57c-5a57-4265-b930-a488b84f14c2" />
 
 This Chart shows the work-life balance rating:
@@ -70,7 +68,6 @@ Insight:
 Employees reporting poor work–life balance exhibit significantly higher attrition, indicating the impact of excessive workloads, limited scheduling flexibility, and insufficient monitoring of employee burnout.
 
 ### How Does Education Level Affect Attrition
-
 <img width="361" height="272" alt="Screenshot 2026-01-19 080612" src="https://github.com/user-attachments/assets/3ae2c4a6-5abb-4cad-b70f-24780f4d6575" />
 
 
@@ -78,7 +75,6 @@ Insight:
 Employees holding Bachelor’s degrees experience higher attrition compared to those with postgraduate qualifications, likely due to greater external job opportunities and lower barriers to job mobility.
 
 ### Age Group vs Attrition
-
 <img width="382" height="274" alt="Screenshot 2026-01-17 114658" src="https://github.com/user-attachments/assets/9ff755b0-bc25-4382-9924-6f5656837fe1" />
 
 Attrition distribution across age groups is as follows:
@@ -98,8 +94,7 @@ The highest attrition occurs among employees aged 35-44, reflecting a period of 
 Contributing factors likely include pursuit of accelerated career progression, competitive compensation expectations, and increased willingness to change roles or locations.
 
 ### Distance to Work vs Attrition
-
-<img width="403" height="281" alt="Screenshot 2026-01-17 114800" src="https://github.com/user-attachments/assets/3cca7ab6-91a2-4f50-a8b1-39610da4712a" />
+<img width="396" height="277" alt="Screenshot 2026-01-19 085456" src="https://github.com/user-attachments/assets/e53eff05-2304-4a50-a9de-89332408aba3" />
 
 Attrition count by commuting distance:
 
@@ -117,7 +112,6 @@ Insight:
 Attrition increases substantially as commuting distance grows. Extended travel times contribute to employee fatigue and reduced engagement, making commuting strain a critical factor in turnover.
 
 ### Marital Status vs Attrition
-
 <img width="368" height="281" alt="Screenshot 2026-01-17 114952" src="https://github.com/user-attachments/assets/6ae35327-2010-462f-95b1-1d9a05a0b931" />
 
 Attrition rates by marital status:
