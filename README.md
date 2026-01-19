@@ -27,6 +27,9 @@ Does education level impact employee retention?
 
 This analysis compares attrition outcomes between employees working remotely and those working on-site across different job levels.
 
+<img width="377" height="281" alt="Screenshot 2026-01-17 120841" src="https://github.com/user-attachments/assets/be3dad0f-13ea-40d1-b2cb-5b8f818af543" />
+
+
 Insight:
 Employees with remote work arrangements exhibit lower attrition and higher job satisfaction, while on-site employees demonstrate significantly higher turnover. This highlights workplace flexibility as a key determinant of employee retention.
 
