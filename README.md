@@ -26,6 +26,18 @@ Power BI – Data modeling, DAX measures, and interactive dashboards
 Power Query – Data cleaning and transformation
 
 DAX – Attrition rate calculations, segmentation, and KPIs
+<img width="1577" height="823" alt="Screenshot 2026-01-19 174507" src="https://github.com/user-attachments/assets/529157c0-38bd-4ddd-a89f-d9b7fb8438c4" />
+
+
+Total Employees: A distinct count of the employee population to establish a denominator for all ratio calculations.
+
+Attrition Count: A filtered measure that aggregates the total number of staff exits.
+
+Attrition Rate: The mathematical ratio of exits to total headcount, providing a standardized view of workforce stability.
+
+Avg Monthly Income: An arithmetic mean of the monthly income column used to track compensation trends.
+<img width="1577" height="823" alt="Screenshot 2026-01-19 174507" src="https://github.com/user-attachments/assets/1a5a78eb-21d8-4da8-b93f-8b9a2b11da8d" />
+
 
 # Key Skills Demonstrated
 
