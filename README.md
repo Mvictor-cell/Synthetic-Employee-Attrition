@@ -2,17 +2,16 @@
 This project presents an end-to-end Employee Attrition Analysis Dashboard built using Power BI. The objective is to analyze workforce attrition patterns and identify key drivers influencing employee turnover across demographic, work-related, and satisfaction-based factors.
 The analysis uses a synthetic employee dataset to simulate real-world HR analytics scenarios and demonstrate practical data analysis, modeling, and visualization skills relevant to HR and People Analytics roles.
 
-# Objective
-The goal of this project is to analyze employee attrition patterns and answer key business questions such as:
+# Business Problem
+Employee attrition leads to increased recruitment costs, loss of institutional knowledge, and reduced organizational productivity. HR teams require actionable insights to understand who is leaving, why they are leaving, and what actions can reduce turnover.
 
-Which employee segments experience the highest attrition?
-
-How do work arrangements and work–life balance affect retention?
-
-What role do commuting distance, age, marital status, and education play in turnover?
+This dashboard addresses the following business questions:
+How does work arrangement (remote vs on-site) affect attrition?
+Which age groups and marital statuses experience the highest turnover?
+How do work–life balance and commuting distance influence attrition?
+Does education level impact employee retention?
 
 # Dataset
-
 The dataset is a synthetic employee attrition dataset containing information on:
 
 Employee demographics (Age, Marital Status, Education)
@@ -24,3 +23,5 @@ Work–life balance and job satisfaction
 Commuting distance
 
 Attrition status
+
+
