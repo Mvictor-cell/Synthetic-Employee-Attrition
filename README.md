@@ -39,14 +39,12 @@ DAX – Attrition rate calculations, segmentation, and KPIs
 
 • Executive-level data storytelling
 
-
 # Executive Insights
 
 ### Remote Work vs Attrition
-
-This analysis compares attrition outcomes between employees working remotely and those working on-site across different job levels.
 <img width="377" height="281" alt="Screenshot 2026-01-17 120841" src="https://github.com/user-attachments/assets/be3dad0f-13ea-40d1-b2cb-5b8f818af543" />
 
+This analysis compares attrition outcomes between employees working remotely and those working on-site across different job levels
 
 Insight:
 Employees with remote work arrangements exhibit lower attrition and higher job satisfaction, while on-site employees demonstrate significantly higher turnover. This highlights workplace flexibility as a key determinant of employee retention.
@@ -67,9 +65,8 @@ Exellent: 18.47%
 Insight:
 Employees reporting poor work–life balance exhibit significantly higher attrition, indicating the impact of excessive workloads, limited scheduling flexibility, and insufficient monitoring of employee burnout.
 
-### How Does Education Level Affect Attrition
+### How Does Education Level Affect Attrition?
 <img width="361" height="272" alt="Screenshot 2026-01-19 080612" src="https://github.com/user-attachments/assets/3ae2c4a6-5abb-4cad-b70f-24780f4d6575" />
-
 
 Insight:
 Employees holding Bachelor’s degrees experience higher attrition compared to those with postgraduate qualifications, likely due to greater external job opportunities and lower barriers to job mobility.
@@ -124,7 +121,6 @@ Married: 25.16%
 
 Insight:
 Married employees account for the highest proportion of attrition. This trend may be influenced by family-related responsibilities, the need for flexible working conditions, and evolving career priorities.
-
 
 
 # Strategic Recommendations for Employee Retention and Recruitment
