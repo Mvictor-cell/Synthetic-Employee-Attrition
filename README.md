@@ -1,6 +1,6 @@
 # Synthetic-Employee-Attrition
 This project presents an end-to-end Employee Attrition Analysis Dashboard built using Power BI. The objective is to analyze workforce attrition patterns and identify key drivers influencing employee turnover across demographic, work-related, and satisfaction-based factors.
-The analysis uses a synthetic employee dataset to simulate real-world HR analytics scenarios and demonstrate practical data analysis, modeling, and visualization skills relevant to HR and People Analytics roles.
+The analysis uses a synthetic employee dataset to simulate real-world HR analytics scenarios and demonstrate practical data analysis, modeling, and visualization skills relevant to HR and People Analytic roles.
 
 # Business Problem
 Employee attrition leads to increased recruitment costs, loss of institutional knowledge, and reduced organizational productivity. HR teams require actionable insights to understand who is leaving, why they are leaving, and what actions can reduce turnover.
@@ -28,14 +28,15 @@ Power Query – Data cleaning and transformation
 DAX – Attrition rate calculations, segmentation, and KPIs
 <img width="1577" height="823" alt="Screenshot 2026-01-19 174507" src="https://github.com/user-attachments/assets/529157c0-38bd-4ddd-a89f-d9b7fb8438c4" />
 
-Key Meausre With DAX
-Total Employees: A distinct count of the employee population to establish a denominator for all ratio calculations.
+### Key Meausres With DAX
 
-Attrition Count: A filtered measure that aggregates the total number of staff exits.
+1. Total Employees: A distinct count of the employee population to establish a denominator for all ratio calculations.
 
-Attrition Rate: The mathematical ratio of exits to total headcount, providing a standardized view of workforce stability.
+2. Attrition Count: A filtered measure that aggregates the total number of staff exits.
 
-Avg Monthly Income: An arithmetic mean of the monthly income column used to track compensation trends.
+3. Attrition Rate: The mathematical ratio of exits to total headcount, providing a standardized view of workforce stability.
+
+4. Avg Monthly Income: An arithmetic mean of the monthly income column used to track compensation trends.
 <img width="773" height="336" alt="Screenshot 2026-01-19 213438" src="https://github.com/user-attachments/assets/72396223-98af-4642-adf0-6f5664575ecd" />
 
 
