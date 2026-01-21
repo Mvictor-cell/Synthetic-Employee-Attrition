@@ -7,13 +7,13 @@ Employee attrition leads to increased recruitment costs, loss of institutional k
 
 ### This Project addresses the following business questions:
 
-How does work arrangement (remote vs on-site) affect attrition?
+i. How does work arrangement (remote vs on-site) affect attrition?
 
-Which age groups and marital statuses experience the highest turnover?
+ii. Which age groups and marital statuses experience the highest turnover?
 
-How do work–life balance and commuting distance influence attrition?
+iii. How do work–life balance and commuting distance influence attrition?
 
-Does education level impact employee retention?
+iv. Does education level impact employee retention?
 
 # Data Source
 
@@ -21,11 +21,11 @@ Excel / CSV – Source data format
 
 # Preparation Tools
 
-Power BI – Data modeling, DAX measures, and interactive dashboards
+a. Power BI – Data modeling, DAX measures, and interactive dashboards
 
-Power Query – Data cleaning and transformation
+b. Power Query – Data cleaning and transformation
 
-DAX – Attrition rate calculations, segmentation, and KPIs
+c. DAX – Attrition rate calculations, segmentation, and KPIs
 <img width="1577" height="823" alt="Screenshot 2026-01-19 174507" src="https://github.com/user-attachments/assets/529157c0-38bd-4ddd-a89f-d9b7fb8438c4" />
 
 ### Key Meausres With DAX
